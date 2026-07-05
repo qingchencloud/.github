@@ -6,7 +6,7 @@
 
 - [ClawPanel](https://github.com/qingchencloud/clawpanel)：多引擎 AI 管理面板，支持 OpenClaw / Hermes Agent。
 - [ClawApp](https://github.com/qingchencloud/clawapp)：OpenClaw AI 智能体手机聊天客户端。
-- [ClaudeBridge CN](https://github.com/qingchencloud/claude-bridge-cn)：给中文 Claude 用户用的 Windows 小助手。
+- [TimeLingo](https://github.com/qingchencloud/time-lingo)：世界时间和多语言翻译 Windows 小助手。
 - [cftunnel](https://github.com/qingchencloud/cftunnel)：Cloudflare Tunnel + frp 双引擎内网穿透工具。
 - [cftunnel-app](https://github.com/qingchencloud/cftunnel-app)：cftunnel 桌面客户端。
 - [openclaw-docker](https://github.com/qingchencloud/openclaw-docker)：OpenClaw Docker 部署方案。
